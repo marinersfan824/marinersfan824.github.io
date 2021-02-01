@@ -14,12 +14,8 @@ nav ul {
 }
 nav ul li {
     display: inline;
-    border-right: 2px solid #111111;
     padding-right: 8px;
     padding-left: 8px;
-}
-nav ul li:last-child {
-    border-right: none;
 }
 nav ul li a {
     text-decoration: none;
