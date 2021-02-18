@@ -23,7 +23,7 @@ nav ul li a {
     text-decoration: none;
     color: #111111;
 }
-.button {
+body button {
     background-color: aqua;
     border: #111111;
     color: white;
